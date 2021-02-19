@@ -28,13 +28,17 @@ namespace CharInsert
                             string text = File.ReadAllText(filePath);
                             text = text.Replace(textToChange, textToAdd);
                             File.WriteAllText(filePath, text);
+                            Console.Clear();
                             Console.WriteLine("Success !");
+                            Console.WriteLine("Press any key to continue...");
                             Console.ReadLine();
+                            recFun();
                         }
                         else if (response == "no")
                         {
                             Console.WriteLine("Changes Aborted.");
-                            Console.ReadLine();
+                            Console.Clear();
+                            recFun();                         
                         }
                         else if (response != "yes" && response != "no")
                         {
@@ -46,7 +50,7 @@ namespace CharInsert
                 catch
                 {
                     Console.WriteLine("Something went wrong, please ensure the file is placed in the correct directory, and check spelling.");
-                    Console.WriteLine("Press any key to continue");
+                    Console.WriteLine("Press any key to continue...");
                     Console.ReadLine();
                     Console.Clear();
                     recFun();
