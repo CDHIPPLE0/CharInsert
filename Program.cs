@@ -16,12 +16,12 @@ namespace CharInsert
                     string filePath = Console.ReadLine();
                     Console.WriteLine("Enter the sequence or character you wish to find and replace.");
                     string textToChange = Console.ReadLine();
-                    Console.WriteLine("Enter the replacement text for the given sequence.");
+                    Console.WriteLine("Enter the replacement characters to replace {0}.", textToChange);
                     string textToAdd = Console.ReadLine();
                     responseFun();
                     void responseFun()
                     {
-                        Console.WriteLine("You want to replace all insances of {0} with {1} correct? yes/no", textToChange, textToAdd);
+                        Console.WriteLine("You want to replace all instances of {0} with {1} correct? yes/no", textToChange, textToAdd);
                         string response = Console.ReadLine();
                         if (response == "yes")
                         {
