@@ -1,0 +1,5 @@
+C:\Users\clint\source\repos\CharInsert\bin\publish\CharInsert.exe
+C:\Users\clint\source\repos\CharInsert\bin\publish\CharInsert.dll
+C:\Users\clint\source\repos\CharInsert\bin\publish\CharInsert.deps.json
+C:\Users\clint\source\repos\CharInsert\bin\publish\CharInsert.runtimeconfig.json
+C:\Users\clint\source\repos\CharInsert\bin\publish\CharInsert.pdb

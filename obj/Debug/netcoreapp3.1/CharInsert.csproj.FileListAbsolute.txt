@@ -1,0 +1,13 @@
+C:\Users\clint\source\repos\CharInsert\obj\Debug\netcoreapp3.1\CharInsert.csprojAssemblyReference.cache
+C:\Users\clint\source\repos\CharInsert\obj\Debug\netcoreapp3.1\CharInsert.AssemblyInfoInputs.cache
+C:\Users\clint\source\repos\CharInsert\obj\Debug\netcoreapp3.1\CharInsert.AssemblyInfo.cs
+C:\Users\clint\source\repos\CharInsert\obj\Debug\netcoreapp3.1\CharInsert.csproj.CoreCompileInputs.cache
+C:\Users\clint\source\repos\CharInsert\bin\Debug\netcoreapp3.1\CharInsert.exe
+C:\Users\clint\source\repos\CharInsert\bin\Debug\netcoreapp3.1\CharInsert.deps.json
+C:\Users\clint\source\repos\CharInsert\bin\Debug\netcoreapp3.1\CharInsert.runtimeconfig.json
+C:\Users\clint\source\repos\CharInsert\bin\Debug\netcoreapp3.1\CharInsert.runtimeconfig.dev.json
+C:\Users\clint\source\repos\CharInsert\bin\Debug\netcoreapp3.1\CharInsert.dll
+C:\Users\clint\source\repos\CharInsert\bin\Debug\netcoreapp3.1\CharInsert.pdb
+C:\Users\clint\source\repos\CharInsert\obj\Debug\netcoreapp3.1\CharInsert.dll
+C:\Users\clint\source\repos\CharInsert\obj\Debug\netcoreapp3.1\CharInsert.pdb
+C:\Users\clint\source\repos\CharInsert\obj\Debug\netcoreapp3.1\CharInsert.genruntimeconfig.cache

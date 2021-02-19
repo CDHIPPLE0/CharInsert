@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CharInsert", "CharInsert.csproj", "{135C1955-4460-4256-AA99-A1ED9860D75F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{135C1955-4460-4256-AA99-A1ED9860D75F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{135C1955-4460-4256-AA99-A1ED9860D75F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{135C1955-4460-4256-AA99-A1ED9860D75F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{135C1955-4460-4256-AA99-A1ED9860D75F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4DE8A59B-A31F-4F80-9AD8-57F5370E987D}
+	EndGlobalSection
+EndGlobal
