@@ -11,3 +11,7 @@ C:\Users\clint\source\repos\CharInsert\bin\Debug\netcoreapp3.1\CharInsert.pdb
 C:\Users\clint\source\repos\CharInsert\obj\Debug\netcoreapp3.1\CharInsert.dll
 C:\Users\clint\source\repos\CharInsert\obj\Debug\netcoreapp3.1\CharInsert.pdb
 C:\Users\clint\source\repos\CharInsert\obj\Debug\netcoreapp3.1\CharInsert.genruntimeconfig.cache
+C:\Users\clint\source\repos\CharInsert\bin\Debug\netcoreapp3.1\CharInsert.dll.manifest
+C:\Users\clint\source\repos\CharInsert\bin\Debug\netcoreapp3.1\CharInsert.application
+C:\Users\clint\source\repos\CharInsert\obj\Debug\netcoreapp3.1\CharInsert.dll.manifest
+C:\Users\clint\source\repos\CharInsert\obj\Debug\netcoreapp3.1\CharInsert.application
